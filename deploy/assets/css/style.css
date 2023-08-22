@@ -1292,6 +1292,9 @@ section.parallax a:hover {
 	height:64px;
 	margin:0 0 0 20px;
 }
+.Features-img-svg path{
+	fill: blue;
+}
 
 /*****************************
     - 10. Parallax video -
